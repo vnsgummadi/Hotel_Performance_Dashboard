@@ -1,4 +1,4 @@
-# 📊 Business Operations & Service Performance Dashboard (Hospitality)
+# 📊 Hotel Performance Dashboard
 
 **Venkata Nikhil Sai Gummadi**  
 📞 +1 623 999 7076  
